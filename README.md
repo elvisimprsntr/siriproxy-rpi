@@ -33,7 +33,7 @@ Installation (New for SiriProxy 0.5.0+)
 
 - Add the example configuration to the master `config.yml` 
 
-`cat siriproxy-redeye/config-info.yml >> ~/.siriproxy/config.yml`
+`cat siriproxy-rpi/config-info.yml >> ~/.siriproxy/config.yml`
 
 - Edit the `config.yml` as required.     **Note: Make sure to line up the column spacing.**
 
