@@ -41,7 +41,7 @@ Installation (New for SiriProxy 0.5.0+)
 
 - Edit the plugin as you wish. **Note: Repeat all the following steps if you make additional changes.**    
 
-`vim siriproxy-rpi/lib/siriproxy-rpi.rb`
+`vim ~/plugins/siriproxy-rpi/lib/siriproxy-rpi.rb`
 
 - Bundle.  
 
