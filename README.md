@@ -55,7 +55,7 @@ Installation (New for SiriProxy 0.5.0+)
 Usage
 -----
 
-**How arm is my pi**
+**How warm is my pi**
 - Returns the RPi temperature in both metric and imperial units. 
 
 To Do List
