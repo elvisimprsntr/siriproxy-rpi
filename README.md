@@ -58,6 +58,9 @@ Usage
 **How warm is my pi**
 - Returns the RPi temperature in both metric and imperial units. 
 
+**Restart AirPi**
+- Restarts Shairport AirPi server, if installed.
+
 To Do List
 ----------
 
