@@ -1,0 +1,4 @@
+    - name: 'RPi'
+      path: '~/plugins/siriproxy-rpi'
+
+ 
