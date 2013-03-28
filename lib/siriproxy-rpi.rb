@@ -12,8 +12,8 @@ class SiriProxy::Plugin::RPi < SiriProxy::Plugin
 	request_completed		
   end
 
-  listen_for(/restart airpi/i) do
-	restart_airpi
+  listen_for(/(restart|stop|start) airpi/i) do |command|
+	restart_airpi(command.downcase.strip)
 	request_completed		
   end
   
@@ -25,9 +25,9 @@ class SiriProxy::Plugin::RPi < SiriProxy::Plugin
 	say "Your Raspberry Pi is #{tempC}°C or #{tempF}°F."
   end
   
-  def restart_airpi
-	`sh /etc/init.d/shairport restart`
-	say "Restarting AirPi"
+  def restart_airpi(command)
+	`sh /etc/init.d/shairport #{command}`
+	say "#{command.capitalize} AirPi."
   end
   
 ############# Initialization
