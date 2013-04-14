@@ -8,6 +8,10 @@ Siriproxy-redeye is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plugin 
 
 First, you must have SiriProxy installed and working.  [HOW-TOs for SiriProxy] (https://github.com/plamoni/SiriProxy/wiki/Installation-How-Tos) 
 
+[Watch Demo Video](http://www.youtube.com/watch?v=OHgXp5NL26E) 
+
+[![Video](http://img.youtube.com/vi/OHgXp5NL26E/hqdefault.jpg)](http://www.youtube.com/watch?v=OHgXp5NL26E)
+
 I have received offers to make a donation to help offset the cost of hardware and for my time.  If you feel so inclined you can donate thru PayPal.  
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SB6A4AFSC5LFQ)  
