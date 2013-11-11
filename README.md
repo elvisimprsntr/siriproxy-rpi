@@ -4,7 +4,7 @@ siriproxy-rpi
 About
 -----
 
-Siriproxy-redeye is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plugin with a collection of [Raspverry Pi](http://www.raspberrypi.org) specific commands.   It does not require a jailbreak, nor do I endorse doing so.
+Siriproxy-rpi is a [SiriProxy] (https://github.com/plamoni/SiriProxy) plugin with a collection of [Raspberry Pi](http://www.raspberrypi.org) specific commands.   It does not require a jailbreak, nor do I endorse doing so.
 
 First, you must have SiriProxy installed and working.  [HOW-TOs for SiriProxy] (https://github.com/plamoni/SiriProxy/wiki/Installation-How-Tos) 
 
